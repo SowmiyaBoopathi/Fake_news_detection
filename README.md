@@ -30,6 +30,8 @@ This project implements a Fake News Detection System using Machine Learning mode
 📜 License
 
 This project is open-source and available under the MIT License.
+
+
 📩 Contributing
 
 Feel free to contribute by submitting pull requests or reporting issues.
